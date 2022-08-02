@@ -370,6 +370,12 @@ Content about: C#, .NET, Discord \
 Featured playlists: `Discord.NET Bot Development`. \
 <br />
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu-Zktu6GTbf_MqdsZ6MNDN1sLKmCT1ceZOZnXi_mQ=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/GotoConferences)
+
+[<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="badges/badge-en.svg" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Goto Conferences**](https://www.youtube.com/c/GotoConferences) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="badges/badge-verified.svg" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel)\
+Content about: Talks \
+Featured playlists: `Software Architecture` , `Microservices`,`DevOps`,`Programming Languages`,`Developer Productivity`,`Cloud Native`. \
+<br />
 [🔼 Back to the top](#contents)
 
 ## Web development
